@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif;
+	background-color: #fff;
+	font-size: 16px;
+	margin:0 auto;
+}
+h1 {
+	font-weight: normal;
+	color: #222;
+	font-size: 50px;
+}
+a {
+	text-decoration: none;
+	color: #777;
+}
+a:hover { 
+	color: #444; 
+}
+#container {
+	text-align: center;
+	margin: 30px 0 0 0;
+}
+#footer {
+	text-align:center;
+	margin: 30px 0 0 0;
+}
