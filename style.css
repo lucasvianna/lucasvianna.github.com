@@ -17,8 +17,8 @@ a {
 	text-decoration: none;
 	color: #777;
 }
-a:hover { 
-	color: #444; 
+a:hover {
+	color: #444;
 }
 #container {
 	text-align: center;
@@ -28,3 +28,4 @@ a:hover {
 	text-align:center;
 	margin: 30px 0 0 0;
 }
+
